@@ -1,4 +1,4 @@
-# Equations for Radio Communication Analysis
+# Equations from EW103 CD, converted from (MS Excel) XLS to Python
 
 ## Line of Sight Loss -- One Way Link Equation
 $$
