@@ -1,8 +1,9 @@
 # Equations for Radio Communication Analysis
 
 ## Line of Sight Loss -- One Way Link Equation
+$$
 \[ \text{LOS Loss (dB)} = 32.44 + 20 \cdot \log_{10}(\text{distance in km}) + 20 \cdot \log_{10}(\text{frequency in MHz}) \]
-
+$$
 ## Two-ray Loss -- One Way Link Equation
 \[ \text{2-Ray Loss (dB)} = 120 + 40 \cdot \log_{10}(\text{distance in km}) - 20 \cdot \log_{10}(\text{Tx height in m}) - 20 \cdot \log_{10}(\text{Rx height in m}) \]
 
