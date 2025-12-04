@@ -56,3 +56,13 @@ $$
 $$
 \text{Effective Range (km)} = \text{Max of LOS or 2-Ray Distance}
 $$
+
+## Running the GUI
+
+Launch the Tkinter-based calculator that wraps all of the equations with:
+
+```bash
+python gui.py
+```
+
+Each tab in the GUI corresponds to one of the calculators above.
